@@ -12,4 +12,8 @@ dependencies = [
     "langchain-openai>=1.4.0",
     "langchain-tavily>=0.2.18",
     "python-dotenv>=1.2.2",
+    "langchain-pinecone>=0.2.11",
+    "langchain-unstructured>=1.0.1",
+    "langchainhub>=0.1.21",
+    "unstructured>=0.23.1",
 ]
